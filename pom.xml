@@ -31,22 +31,20 @@
                   http://localhost:9099
                 </sonar.host.url>
 		<sonar.token>
-			sqp_627148bc41e325d856b25ba53ce45348b101e085
+		    sqp_627148bc41e325d856b25ba53ce45348b101e085
 		</sonar.token>
 		<sonar.login> admin </sonar.login>
 		<sonar.password> Aseervad@2003 </sonar.password> 
             </properties>
         </profile>
      </profiles>
-
-
   <dependencies>
-    <!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
-    <dependency>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.2</version>
-    </dependency>
+<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
+<dependency>
+    <groupId>org.sonarsource.scanner.maven</groupId>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>3.2</version>
+</dependency>
 
 
 
