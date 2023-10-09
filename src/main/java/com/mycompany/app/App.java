@@ -8,10 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-<<<<<<< HEAD
-        System.out.println( "hello Aseervadabhishek" );
-=======
-        System.out.println( "Welcome .... to DIET" );
->>>>>>> 13f17638fd4cf35ff87aa240ad713d2f5bba9616
+        double radius = 4.0;
+        double area = Math.PI * Math.pow(radius, 2);
+        System.out.println("Area of the circle: " + area);
     }
 }
