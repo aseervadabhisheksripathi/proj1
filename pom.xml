@@ -28,7 +28,7 @@
                   http://myserver:9099
                 </sonar.host.url>
                 <sonar.login>
-                sqp_2ce25c1cd12d255199a0ab1b5760aadcb016c7ca
+                sqp_b06baebb1bccf81c85d2c940bd59bbad2cd61816
                 </sonar.login>
                 <settings><!--this is causing the error -->
                 <!-- some settings-->
