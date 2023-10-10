@@ -10,7 +10,7 @@
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://github.com/aseervadabhisheksripathi/proj1.git</url>
+  <url>https://github.com/aseervadabhisheksripathi/proexpo.git</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -28,7 +28,7 @@
                   http://myserver:9099
                 </sonar.host.url>
                 <sonar.login>
-                sqp_b06baebb1bccf81c85d2c940bd59bbad2cd61816
+                  sqp_b06baebb1bccf81c85d2c940bd59bbad2cd61816
                 </sonar.login>
                 <settings><!--this is causing the error -->
                 <!-- some settings-->
